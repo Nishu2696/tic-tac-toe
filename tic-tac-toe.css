@@ -1,0 +1,16 @@
+.design{
+    padding:10px;
+    margin:auto;
+    border-collapse:collapse;
+}
+
+#reset{
+    background-color:cyan;
+    padding:10px;
+    position:relative;
+}
+
+.large{
+    padding:20px;
+    font-size:1em;
+}
